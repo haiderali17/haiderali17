@@ -4,7 +4,7 @@
 
 ### 🤖 Aspiring AI Engineer
 
-**Machine Learning • Generative AI • AI Automation**
+**Machine Learning • Deep Learning • Generative AI • AI Automation**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://haider-ai-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haider-ali-287443322)
@@ -20,12 +20,13 @@ I'm a BS Information Technology student at **PUCIT Lahore** focused on:
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
+- 🧬 Deep Learning
 - ✨ Generative AI
 - ⚙️ AI Automation
 - 🔗 LLM Applications
 
 I build practical AI applications using **Python, Machine Learning,
-LLMs, APIs, Google Gemini, Groq, and Streamlit.**
+Deep Learning, LLMs, APIs, Google Gemini, Groq, and Streamlit.**
 
 ---
 
@@ -35,6 +36,7 @@ LLMs, APIs, Google Gemini, Groq, and Streamlit.**
 |---|---|
 | 🤖 Generative AI | LLM-powered applications and AI assistants |
 | 🧠 Machine Learning | Prediction systems and ML applications |
+| 🧬 Deep Learning | Neural networks and deep learning systems |
 | ⚙️ AI Automation | Intelligent agents and automated workflows |
 | 🐍 Python | AI and ML application development |
 
@@ -103,36 +105,38 @@ Upload PDFs, ask questions, and receive context-aware answers.
 
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 💻 Languages
 
-### Machine Learning & Data
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,mysql)](https://skillicons.dev)
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+### 📊 Data Science & Machine Learning
 
-### Generative AI
+[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn)](https://skillicons.dev)
+
+### 🤖 AI & Development
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+### ⚡ AI Technologies
 
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Tools
+### 🧠 Core Skills
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+`Machine Learning` · `Deep Learning` · `EDA` · `Seaborn` · `AI Automation` · `LLM Applications`
+
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Machine Learning
+- Machine Learning
+- Deep Learning
 - Generative AI
 - RAG Systems
 - AI Agents
@@ -159,5 +163,3 @@ LLMs, tools, APIs, and automated workflows for real-world research tasks.
 📧 haiderali6525095@gmail.com
 
 ---
-
-### 🚀 Building intelligent systems, one project at a time.
