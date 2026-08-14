@@ -109,25 +109,25 @@ Upload PDFs, ask questions, and receive context-aware answers.
 
 ### 💻 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,mysql)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 
 ### 📊 Data Science & Machine Learning
 
-[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn" />
 
 ### 🤖 AI & Development
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ### ⚡ AI Technologies
 
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 ### 🧠 Core Skills
 
-`Machine Learning` · `Deep Learning` · `EDA` · `Seaborn` · `AI Automation` · `LLM Applications`
+`Machine Learning` • `Deep Learning` • `EDA` • `Seaborn` • `AI Automation` • `LLM Applications`
 
 </div>
 
