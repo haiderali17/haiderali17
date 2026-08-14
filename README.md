@@ -1,15 +1,12 @@
 <div align="center">
 
-<img 
-src="./assets/profile-banner.png"
-width="100%"
-alt="Haider Ali - Aspiring AI Engineer"
->
+<img src="./assets/profile-banner.png" width="100%" alt="Haider Ali - Aspiring AI Engineer">
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
 
 ## 👨‍💻 About Me
 
