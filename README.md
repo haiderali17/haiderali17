@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./assets/profile-banner.png" width="100%" alt="Haider Ali - AI Engineer">
+
+</div>
+
+<div align="center">
+
 # 👋 Hi, I'm Haider Ali
 
 ### 🤖 Aspiring AI Engineer
