@@ -100,32 +100,39 @@ Upload PDFs, ask questions, and receive context-aware answers.
 [🔗 View Repository](https://github.com/haiderali17/ai-pdf-assistant)
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Data Science & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn" />
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### 🤖 AI & Development
+### 🤖 AI & Generative AI
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### ⚡ AI Technologies
+### 🛠️ Tools
 
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🧠 Core Skills
 
-`Machine Learning` • `Deep Learning` • `EDA` • `Seaborn` • `AI Automation` • `LLM Applications`
+`Machine Learning` • `Deep Learning` • `EDA` • `AI Automation` • `LLM Applications`
 
 </div>
 
