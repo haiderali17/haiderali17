@@ -54,7 +54,7 @@ Machine Learning-powered customer churn prediction application built with Python
 
 ### 🩺 Disease Prediction ML
 
-Machine Learning project covering data cleaning, EDA, preprocessing, model training, and evaluation.
+Machine Learning-powered diabetes prediction project covering data cleaning, EDA, preprocessing, model training, and evaluation.
 
 [🔗 View Repository](https://github.com/haiderali17/Disease-Prediction-ML)  
 [🚀 Live Demo](https://diabetes-predictor-ai.streamlit.app/)
