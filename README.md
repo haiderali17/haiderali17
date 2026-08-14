@@ -1,49 +1,53 @@
+<div align="center">
+
 # 👋 Hi, I'm Haider Ali
 
-### 🤖 Aspiring AI Engineer | Machine Learning | Generative AI | AI Automation
+### 🤖 Aspiring AI Engineer
 
-I'm a BS Information Technology student at PUCIT Lahore focused on
-**Artificial Intelligence, Machine Learning, Generative AI, and AI Automation.**
+**Machine Learning • Generative AI • AI Automation**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://haider-ai-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haider-ali-287443322)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haiderali17)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a BS Information Technology student at **PUCIT Lahore** focused on:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ✨ Generative AI
+- ⚙️ AI Automation
+- 🔗 LLM Applications
 
 I build practical AI applications using **Python, Machine Learning,
-LLMs, APIs, Streamlit, and modern AI tools.**
+LLMs, APIs, Google Gemini, Groq, and Streamlit.**
 
 ---
 
-## 🧠 What I Build
+## 🚀 What I Build
 
-### 🤖 Generative AI Applications
-
-Building AI-powered applications using LLMs, APIs, Python,
-and Streamlit.
-
-### 📊 Machine Learning Systems
-
-Developing end-to-end ML projects involving data preprocessing,
-EDA, model training, evaluation, and prediction.
-
-### ⚙️ AI Automation & Agents
-
-Building intelligent agents and automation systems that combine
-LLMs, tools, APIs, and workflows for real-world tasks.
-
-### 🐍 Python Applications
-
-Developing practical Python applications for Artificial Intelligence
-and Machine Learning.
+| Area | Focus |
+|---|---|
+| 🤖 Generative AI | LLM-powered applications and AI assistants |
+| 🧠 Machine Learning | Prediction systems and ML applications |
+| ⚙️ AI Automation | Intelligent agents and automated workflows |
+| 🐍 Python | AI and ML application development |
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
 ### 💬 AI Chat Assistant
 
-AI-powered conversational assistant built with **Python, Streamlit,
-and Groq API**.
+AI-powered conversational assistant built with **Python, Streamlit, and Groq API**.
 
-🔗 [View Repository](https://github.com/haiderali17/AI-Chat-Assistant)
-
-🚀 [Live Demo](https://ai-chat-assistant-gvpxe6yyaatyqiua8apmuz.streamlit.app/)
+[🔗 View Repository](https://github.com/haiderali17/AI-Chat-Assistant)  
+[🚀 Live Demo](https://ai-chat-assistant-gvpxe6yyaatyqiua8apmuz.streamlit.app/)
 
 ---
 
@@ -51,12 +55,10 @@ and Groq API**.
 
 AI-powered resume analyzer built with **Streamlit and Groq Llama 3.3**.
 
-Generates ATS scores, identifies missing skills, and creates
-professional PDF reports.
+Generates ATS scores, identifies missing skills, and creates professional PDF reports.
 
-🔗 [View Repository](https://github.com/haiderali17/AI-Resume-Analyzer)
-
-🚀 [Live Demo](https://ai-resume-analyzer-c8behwthbj5pb2hpyaszkc.streamlit.app/)
+[🔗 View Repository](https://github.com/haiderali17/AI-Resume-Analyzer)  
+[🚀 Live Demo](https://ai-resume-analyzer-c8behwthbj5pb2hpyaszkc.streamlit.app/)
 
 ---
 
@@ -65,34 +67,27 @@ professional PDF reports.
 Machine Learning-powered customer churn prediction application
 built with Python and Streamlit.
 
-Predicts whether a customer is likely to churn using trained
-classification models through an interactive interface.
-
-🔗 [View Repository](https://github.com/haiderali17/Customer-Churn-App)
-
-🚀 [Live Demo](https://customer-churn-app-vnhfzhu4tgsg4cnsi9ytxd.streamlit.app/)
+[🔗 View Repository](https://github.com/haiderali17/Customer-Churn-App)  
+[🚀 Live Demo](https://customer-churn-app-vnhfzhu4tgsg4cnsi9ytxd.streamlit.app/)
 
 ---
 
 ### 🩺 Disease Prediction ML
 
-Machine Learning project focused on diabetes prediction.
-
-Includes data cleaning, exploratory data analysis,
+Machine Learning project covering data cleaning, EDA,
 preprocessing, model training, and evaluation.
 
-🔗 [View Repository](https://github.com/haiderali17/Disease-Prediction-ML)
-
-🚀 [Live Demo](https://diabetes-predictor-ai.streamlit.app/)
+[🔗 View Repository](https://github.com/haiderali17/Disease-Prediction-ML)  
+[🚀 Live Demo](https://diabetes-predictor-ai.streamlit.app/)
 
 ---
 
 ### 💻 Laptop Price Prediction
 
 Machine Learning project for predicting laptop prices
-based on available product features.
+based on product features.
 
-🔗 [View Repository](https://github.com/haiderali17/Laptop-Price-Prediction)
+[🔗 View Repository](https://github.com/haiderali17/Laptop-Price-Prediction)
 
 ---
 
@@ -102,7 +97,7 @@ AI-powered PDF assistant built with Python and Google Gemini API.
 
 Upload PDFs, ask questions, and receive context-aware answers.
 
-🔗 [View Repository](https://github.com/haiderali17/ai-pdf-assistant)
+[🔗 View Repository](https://github.com/haiderali17/ai-pdf-assistant)
 
 ---
 
@@ -121,7 +116,7 @@ Upload PDFs, ask questions, and receive context-aware answers.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-### Generative AI & Development
+### Generative AI
 
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
@@ -137,8 +132,7 @@ Upload PDFs, ask questions, and receive context-aware answers.
 
 ## 📚 Currently Learning
 
-- Machine Learning
-- Deep Learning
+- Advanced Machine Learning
 - Generative AI
 - RAG Systems
 - AI Agents
@@ -156,20 +150,14 @@ LLMs, tools, APIs, and automated workflows for real-world research tasks.
 
 ## 🌐 Connect With Me
 
-🌐 **Portfolio**
+🌐 [Portfolio](https://haider-ai-portfolio.vercel.app/)
 
-https://haider-ai-portfolio.vercel.app/
+💼 [LinkedIn](https://www.linkedin.com/in/haider-ali-287443322)
 
-💼 **LinkedIn**
+🐙 [GitHub](https://github.com/haiderali17)
 
-https://www.linkedin.com/in/haider-ali-287443322
-
-🐙 **GitHub**
-
-https://github.com/haiderali17
-
-📧 **Email**
-
-haiderali6525095@gmail.com
+📧 haiderali6525095@gmail.com
 
 ---
+
+### 🚀 Building intelligent systems, one project at a time.
