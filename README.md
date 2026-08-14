@@ -1,23 +1,14 @@
-
 <div align="center">
 
 <img src="./assets/profile-banner.png" width="100%" alt="Haider Ali - Aspiring AI Engineer">
 
-</div>
-
----
-
-<div align="center">
+<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://haider-ai-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haider-ali-287443322)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haiderali17)
 
 </div>
-
----
-
----
 
 ## 👨‍💻 About Me
 
@@ -56,8 +47,6 @@ AI-powered conversational assistant built with **Python, Streamlit, and Groq API
 [🔗 View Repository](https://github.com/haiderali17/AI-Chat-Assistant)  
 [🚀 Live Demo](https://ai-chat-assistant-gvpxe6yyaatyqiua8apmuz.streamlit.app/)
 
----
-
 ### 📄 AI Resume Analyzer
 
 AI-powered resume analyzer built with **Streamlit and Groq Llama 3.3**.
@@ -67,36 +56,25 @@ Generates ATS scores, identifies missing skills, and creates professional PDF re
 [🔗 View Repository](https://github.com/haiderali17/AI-Resume-Analyzer)  
 [🚀 Live Demo](https://ai-resume-analyzer-c8behwthbj5pb2hpyaszkc.streamlit.app/)
 
----
-
 ### 📊 Customer Churn Prediction
 
-Machine Learning-powered customer churn prediction application
-built with Python and Streamlit.
+Machine Learning-powered customer churn prediction application built with Python and Streamlit.
 
 [🔗 View Repository](https://github.com/haiderali17/Customer-Churn-App)  
 [🚀 Live Demo](https://customer-churn-app-vnhfzhu4tgsg4cnsi9ytxd.streamlit.app/)
 
----
-
 ### 🩺 Disease Prediction ML
 
-Machine Learning project covering data cleaning, EDA,
-preprocessing, model training, and evaluation.
+Machine Learning project covering data cleaning, EDA, preprocessing, model training, and evaluation.
 
 [🔗 View Repository](https://github.com/haiderali17/Disease-Prediction-ML)  
 [🚀 Live Demo](https://diabetes-predictor-ai.streamlit.app/)
 
----
-
 ### 💻 Laptop Price Prediction
 
-Machine Learning project for predicting laptop prices
-based on product features.
+Machine Learning project for predicting laptop prices based on product features.
 
 [🔗 View Repository](https://github.com/haiderali17/Laptop-Price-Prediction)
-
----
 
 ### 🤖 AI PDF Assistant
 
@@ -107,6 +85,7 @@ Upload PDFs, ask questions, and receive context-aware answers.
 [🔗 View Repository](https://github.com/haiderali17/ai-pdf-assistant)
 
 ---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -159,8 +138,7 @@ Upload PDFs, ask questions, and receive context-aware answers.
 
 ## 🎯 Current Focus
 
-Currently building an **AI Research & Automation Agent** that combines
-LLMs, tools, APIs, and automated workflows for real-world research tasks.
+Currently building an **AI Research & Automation Agent** that combines LLMs, tools, APIs, and automated workflows for real-world research tasks.
 
 ---
 
@@ -173,5 +151,3 @@ LLMs, tools, APIs, and automated workflows for real-world research tasks.
 🐙 [GitHub](https://github.com/haiderali17)
 
 📧 haiderali6525095@gmail.com
-
----
