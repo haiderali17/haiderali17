@@ -126,5 +126,3 @@ https://www.linkedin.com/in/haider-ali-287443322
 https://github.com/haiderali17
 
 ---
-
-### 🚀 Building intelligent systems, one project at a time.
