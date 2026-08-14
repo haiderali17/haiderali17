@@ -137,7 +137,8 @@ Upload PDFs, ask questions, and receive context-aware answers.
 
 ## 📚 Currently Learning
 
-- Advanced Machine Learning
+- Machine Learning
+- Deep Learning
 - Generative AI
 - RAG Systems
 - AI Agents
