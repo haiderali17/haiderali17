@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" width="100%" alt="Haider Ali - Aspiring AI Engineer">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://haider-ai-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haider-ali-287443322)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haiderali17)
+<img 
+src="./assets/profile-banner.png"
+width="100%"
+alt="Haider Ali - Aspiring AI Engineer"
+>
 
 </div>
+
+---
 
 
 ## 👨‍💻 About Me
