@@ -17,7 +17,6 @@ I'm a BS Information Technology student at **PUCIT Lahore** focused on:
 
 I build practical AI applications using **Python, Machine Learning,
 Deep Learning, LLMs, APIs, Google Gemini, Groq, and Streamlit.**
----
 ## 🚀 What I Build
 
 | Area | Focus |
