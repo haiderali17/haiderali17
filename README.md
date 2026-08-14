@@ -61,9 +61,9 @@ Machine Learning project covering data cleaning, EDA, preprocessing, model train
 
 ### 💻 Laptop Price Prediction
 
-Machine Learning project for predicting laptop prices based on product features.
+A Machine Learning application that predicts laptop prices based on hardware and product features.
 
-[🔗 View Repository](https://github.com/haiderali17/Laptop-Price-Prediction)
+[🔗 View Repository](https://github.com/haiderali17/Laptop-Price-Prediction)  
 [🚀 Live Demo](https://laptop-price-prediction-emfqnhwogiapppcxpapptigz.streamlit.app/)
 
 ### 🤖 AI PDF Assistant
