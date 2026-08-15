@@ -68,9 +68,12 @@ A Machine Learning application that predicts laptop prices based on hardware and
 
 ### 🤖 AI PDF Assistant
 
-AI-powered PDF assistant built with Python and Google Gemini API.
+AI-powered PDF assistant built with Python and Groq API.
 
 [🔗 View Repository](https://github.com/haiderali17/ai-pdf-assistant)
+[🚀 Live Demo](https://ai-pdf-assistant-uxquw3qyk6hfwa6stficta.streamlit.app/)
+
+
 
 ---
 
