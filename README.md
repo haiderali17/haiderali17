@@ -133,7 +133,7 @@ LLMs, tools, APIs, and automated workflows for real-world research tasks.
 
 ## 🌐 Connect With Me
 
-🌐 [Portfolio](https://haider-ai-portfolio.vercel.app/)
+🌐 [Portfolio](https://my-portfolio-coral-tau-p3rxlrw61k.vercel.app/)
 
 💼 [LinkedIn](https://www.linkedin.com/in/haider-ali-287443322)
 
